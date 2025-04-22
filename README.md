@@ -5,7 +5,7 @@ I am a recent graduate in Computer Engineering and I am currently focused on lea
 - 🔭 I’m currently studying:
 	- Mobile Application Development 
 	- Web Application Development
- - prompt enginnering
+	- prompt enginnering
 
 
 ## My Skills Include
